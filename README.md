@@ -6,10 +6,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GeraldineRodriguez&label=Visitas%20al%20perfil&color=BD93F9&style=flat" alt="Visitas al perfil" />
-</p>
-
 ---
 
 ## Sobre mí
