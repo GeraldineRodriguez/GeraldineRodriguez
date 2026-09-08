@@ -57,19 +57,6 @@ Actualmente sigo fortaleciendo mis conocimientos en **programación, bases de da
 </p>
 
 ---
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeraldineRodriguez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeraldineRodriguez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-
----
-
 ## Actualmente aprendiendo
 
 * 🔹 Desarrollo Full-Stack
@@ -91,7 +78,7 @@ Actualmente sigo fortaleciendo mis conocimientos en **programación, bases de da
 
 <div align="center">
 
-<a href="mailto:Rodriguez43208@gmail.com">
+<a href="mailto: Rodriguez43208@gmail.com ">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
