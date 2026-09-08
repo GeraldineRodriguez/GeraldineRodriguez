@@ -57,16 +57,6 @@ Actualmente sigo fortaleciendo mis conocimientos en **programación, bases de da
 </p>
 
 ---
-## Actualmente aprendiendo
-
-* 🔹 Desarrollo Full-Stack
-* 🔹 React y Next.js
-* 🔹 C# y .NET
-* 🔹 Bases de datos y SQL
-* 🔹 Arquitectura y diseño de aplicaciones
-* 🔹 Buenas prácticas de programación
-
----
 
 ## Objetivo
 
